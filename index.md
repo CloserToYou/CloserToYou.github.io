@@ -14,4 +14,4 @@
    - 前端
    - Spring框架
    - 设计模式
-   - IntelliJ IDEA开发工具
+   - [IntelliJ IDEA开发工具](https://blog.csdn.net/weixin_43676842/article/category/9304331)
